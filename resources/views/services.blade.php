@@ -244,7 +244,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="contacts.html">Contacts</a>
+							<a href="{{ url('/contacts') }}">Contacts</a>
 						</li>
 					</ul>
 				</nav>
