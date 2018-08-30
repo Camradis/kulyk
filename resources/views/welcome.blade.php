@@ -66,7 +66,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="services.html"><i class="fa fa-plus"></i>Services</a>
+							<a href="{{ url('/services') }}"><i class="fa fa-plus"></i>Services</a>
 						</li>
 						<li>
 							<a href="timetable-week.html"><i class="fa fa-plus"></i>Timetable</a>
